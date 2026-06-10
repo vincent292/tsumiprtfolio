@@ -11,99 +11,70 @@ export const services: Service[] = [
   {
     title: "Sitios corporativos y landing pages",
     description:
-      "Diseño y desarrollo de sitios que ayudan a presentar mejor la empresa, ordenar el mensaje y convertir con más claridad.",
+      "Disenio y desarrollo de sitios que ayudan a presentar mejor la empresa, ordenar el mensaje y convertir con mas claridad.",
     icon: "spark",
     highlights: [
-      "Jerarquía visual sólida",
-      "Copy más claro",
-      "SEO técnico base",
+      "Jerarquia visual solida",
+      "Copy mas claro",
+      "SEO tecnico base",
     ],
   },
   {
     title: "Sistemas web a medida",
     description:
-      "Plataformas construidas alrededor de procesos reales, permisos, flujos internos y operación diaria del negocio.",
+      "Plataformas construidas alrededor de procesos reales, permisos, flujos internos y operacion diaria del negocio.",
     icon: "layers",
     highlights: [
-      "Lógica de negocio",
+      "Logica de negocio",
       "Roles y permisos",
-      "Escalabilidad técnica",
+      "Escalabilidad tecnica",
     ],
   },
   {
     title: "CMS y paneles administrativos",
     description:
-      "Backoffices preparados para administrar contenido, catálogos, estados, imágenes y datos sin tocar el código.",
+      "Backoffices preparados para administrar contenido, catalogos, estados, imagenes y datos sin tocar el codigo.",
     icon: "panel",
     highlights: [
-      "CRUDs por módulo",
+      "CRUDs por modulo",
       "Contenido administrable",
       "Base preparada para crecer",
     ],
   },
   {
-    title: "Sistemas para clínicas",
+    title: "Sistemas para clinicas",
     description:
-      "Productos con foco en presencia profesional, comunicación con pacientes, agenda y organización interna.",
+      "Productos con foco en presencia profesional, comunicacion con pacientes, agenda y organizacion interna.",
     icon: "pulse",
     highlights: ["Sitio profesional", "Agenda y contacto", "Orden de contenidos"],
   },
   {
-    title: "Restaurantes y negocios de atención",
+    title: "Restaurantes y negocios de atencion",
     description:
-      "Experiencias web pensadas para mostrar menú, reservas, pedidos o información clave sin fricción.",
+      "Experiencias web pensadas para mostrar menu, reservas, pedidos o informacion clave sin friccion.",
     icon: "utensils",
-    highlights: ["Menús digitales", "Reservas y pedidos", "Experiencia móvil"],
+    highlights: ["Menus digitales", "Reservas y pedidos", "Experiencia movil"],
   },
   {
     title: "Constructoras e inmobiliarias",
     description:
-      "Sitios y plataformas comerciales para mostrar proyectos, propiedades, renders y captación de contactos.",
+      "Sitios y plataformas comerciales para mostrar proyectos, propiedades, renders y captacion de contactos.",
     icon: "building",
     highlights: [
       "Portafolio comercial",
-      "Galerías y fichas",
-      "Generación de leads",
+      "Galerias y fichas",
+      "Generacion de leads",
     ],
   },
   {
     title: "Portales de usuarios y clientes",
     description:
-      "Áreas privadas para perfiles, historial, documentos, seguimiento y acciones seguras dentro del producto.",
+      "Areas privadas para perfiles, historial, documentos, seguimiento y acciones seguras dentro del producto.",
     icon: "users",
     highlights: [
       "Accesos privados",
       "Documentos y estados",
       "Experiencias seguras",
-    ],
-  },
-  {
-    title: "Automatización e integración con APIs",
-    description:
-      "Conexiones con servicios externos para reducir trabajo manual, sincronizar datos y unificar procesos.",
-    icon: "workflow",
-    highlights: [
-      "APIs externas",
-      "Flujos automáticos",
-      "Menos tareas manuales",
-    ],
-  },
-  {
-    title: "Chatbots e inteligencia artificial",
-    description:
-      "Experiencias conversacionales y funciones de IA pensadas para utilidad real, no solo efecto visual.",
-    icon: "bot",
-    highlights: ["Asistentes web", "IA aplicada", "Procesos guiados"],
-  },
-  {
-    title: "WhatsApp, pagos, mapas y almacenamiento",
-    description:
-      "Integraciones con herramientas concretas del negocio para vender, atender, ubicar y operar sin fricción.",
-    icon: "plug",
-    highlights: [
-      "WhatsApp Business",
-      "Pagos y mapas",
-      "Storage y bases de datos",
     ],
   },
 ];

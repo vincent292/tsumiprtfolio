@@ -23,7 +23,7 @@ export const siteConfig = {
   futureModules: [
     "Panel administrativo",
     "CMS de contenidos",
-    "Integraciones con WhatsApp y APIs",
+    "Integraciones utiles segun el proyecto",
   ],
   ctaHighlights: [
     "Revisamos la web actual, la referencia visual o el flujo que necesitas ordenar.",
@@ -31,10 +31,12 @@ export const siteConfig = {
     "Publicamos una base que luego puede crecer hacia CMS, reportes o nuevos modulos.",
   ],
   contact: {
-    email: "hola@tsumi.dev",
-    meetingUrl: "mailto:hola@tsumi.dev?subject=Quiero%20hablar%20con%20Tsumi",
+    email: "ariasvincent292@gmail.com",
+    phone: "79985409",
+    meetingUrl:
+      "mailto:ariasvincent292@gmail.com?subject=Quiero%20hablar%20con%20Tsumi",
     whatsappUrl:
-      "https://wa.me/59170000000?text=Hola%20Tsumi%2C%20quiero%20hablar%20de%20un%20proyecto.",
+      "https://wa.me/59179985409?text=Hola%2C%20quiero%20hablar%20de%20un%20proyecto.",
     socials: [
       { label: "LinkedIn", href: "https://www.linkedin.com" },
       { label: "GitHub", href: "https://github.com" },

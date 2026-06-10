@@ -77,6 +77,14 @@ export function Footer() {
               rel="noreferrer"
               className="transition hover:text-white"
             >
+              {siteConfig.contact.phone}
+            </a>
+            <a
+              href={siteConfig.contact.whatsappUrl}
+              target="_blank"
+              rel="noreferrer"
+              className="transition hover:text-white"
+            >
               WhatsApp
             </a>
             {siteConfig.contact.socials.map((item) => (

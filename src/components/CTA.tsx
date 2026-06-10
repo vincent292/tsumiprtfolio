@@ -57,6 +57,14 @@ export function CTA() {
               >
                 {siteConfig.contact.email}
               </a>
+              <a
+                href={siteConfig.contact.whatsappUrl}
+                target="_blank"
+                rel="noreferrer"
+                className="rounded-lg border border-dashed border-slate-950/15 p-4 text-sm font-semibold text-slate-950 transition hover:border-[#0b6f78]/30 hover:text-[#0b6f78]"
+              >
+                Cel: {siteConfig.contact.phone}
+              </a>
             </div>
           </div>
         </div>
